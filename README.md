@@ -34,11 +34,42 @@ Et pour finir de l'apliquer à un haut parleur.</p>
  </tr>
 </table>
 
-<h2>Schéma block</h2>
+<h2>Schéma</h2>
 
 <h2>Formule</h2>
 
-<h2>Simulation</h2>
+Ra = 10 KΩ
+C = 100 nF
+
+f = 
+Rb =
+
+Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
+
+<table>
+ <tr>
+  <td>262</td>
+  <td>294</td>
+  <td>330</td>
+  <td>349</td>
+  <td>392</td>
+  <td>440</td>
+  <td>494</td>
+  <td>523</td>
+</tr>
+<tr>
+  <th>22481</th>
+  <th>19489</th>
+  <th>16818</th>
+  <th>15630</th>
+  <th>13367</th>
+  <th>11363</th>
+  <th>9574</th>
+  <th>8767</th>
+ </tr>
+
+</table>
+
 
 <h2> </h2>
 <p align="center"> <br> <a href="https://github.com/Montandon-Varoda/"><img src="https://img.shields.io/badge/My-GitHub-red.svg" alt="version"/></a> <i> Maxime Montandon </i></p>
