@@ -51,6 +51,7 @@ Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 
 <table>
  <tr>
+  <th></th>
   <th>DO</th>
   <th>RE</th>
   <th>MI</th>
@@ -61,6 +62,7 @@ Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
   <th>DO</th>
  </tr>
  <tr>
+  <td>f0 [Hz]</td>
   <td>262</td>
   <td>294</td>
   <td>330</td>
@@ -71,6 +73,7 @@ Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
   <td>523</td>
 </tr>
 <tr>
+ <td>Rb [Ω]</td>
   <td>22481</td>
   <td>19489</td>
   <td>16818</td>
