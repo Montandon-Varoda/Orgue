@@ -42,7 +42,7 @@ Ra = 10 KΩ </br>
 Rb = </br>
 C = 100 nF </br>
 
-![img](http://www.sciweavers.org/tex2img.php?eq=f_%7B0%7D%20%3D%20%20%20%5Cfrac%7B%5C%201%2C44%7D%7B%5C%20%28%20R_%7Ba%7D%20R_%7Bb%7D%29%20%20%20%5Ctimes%20C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+<a><img href=''></a>
 
 Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 
