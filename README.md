@@ -38,11 +38,10 @@ Et pour finir de l'apliquer à un haut parleur.</p>
 
 <h2>Formule</h2>
 
-Ra = 10 KΩ
-C = 100 nF
-
-f = 
-Rb =
+Ra = 10 KΩ </br>
+C = 100 nF </br>
+f = </br>
+Rb = </br>
 
 Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 
