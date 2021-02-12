@@ -43,7 +43,7 @@ Ra = 10 KΩ </br>
 
 C = 100 nF </br>
 
-<img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/Tex2Img_1613136798.jpg'/>
+<img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/rbformule.png'/>
 
 <img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/Tex2Img_1613136442.jpg'/>
 
