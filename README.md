@@ -6,7 +6,7 @@
   Nous avons donc décidé de réaliser un orgue electronique. Il devra pouvoir jouer les notes de Do à Do en actionnant des interupteurs.</p>
 </div>
 
-<h2> </h2>
+<h2>Gamme</h2>
 
 <p>Nous avons décidé d'utiliser un oscillateur "555" pour la création des différentes fréquences. Puis de modifier le signal carré de sortie en signal sinusoïdal. 
 Et pour finir de l'apliquer à un haut parleur.</p>
@@ -85,7 +85,7 @@ Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
  </tr>
 
 </table>
-
+<h2>Simulation</h2>
 
 <h2> </h2>
 <p align="center"> <br> <a href="https://github.com/Montandon-Varoda/"><img src="https://img.shields.io/badge/My-GitHub-red.svg" alt="version"/></a> <i> Maxime Montandon </i></p>
