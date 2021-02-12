@@ -42,8 +42,6 @@ Ra = 10 KΩ </br>
 Rb = </br>
 C = 100 nF </br>
 
-<a><img href='https://github.com/Montandon-Varoda/Orgue/blob/main/1_Documentation/Tex2Img_1613136442.jpg'></a>
-
 Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 
 <table>
