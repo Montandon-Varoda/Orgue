@@ -74,14 +74,14 @@ Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 </tr>
 <tr>
  <td>Rb [Ω]</td>
-  <td>22481</td>
-  <td>19489</td>
-  <td>16818</td>
-  <td>15630</td>
-  <td>13367</td>
-  <td>11363</td>
-  <td>9574</td>
-  <td>8767</td>
+  <td>3300</td>
+  <td>2700</td>
+  <td>1000</td>
+  <td>2300</td>
+  <td>2000</td>
+  <td>1800</td>
+  <td>1000</td>
+  <td>8200</td>
  </tr>
 
 </table>
