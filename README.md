@@ -39,9 +39,12 @@ Et pour finir de l'apliquer à un haut parleur.</p>
 <h2>Formule</h2>
 
 Ra = 10 KΩ </br>
-<a><img href=""></a>
+
 C = 100 nF </br>
 
+<img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/Tex2Img_1613136798.jpg' />
+
+<img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/Tex2Img_1613136442.jpg'  />
 
 Voici la valeur théorique de Rb [Ω] en fonction de la fréquence f [Hz]
 
