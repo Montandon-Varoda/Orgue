@@ -35,7 +35,7 @@ Et pour finir de l'apliquer à un haut parleur.</p>
 </table>
 
 <h2>Schéma</h2>
-<a href='https://tinyurl.com/y6mbflg9'> <img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/shema1.PNG'/> </a>
+<a href='https://tinyurl.com/ybtgv46j '> <img src='https://raw.githubusercontent.com/Montandon-Varoda/Orgue/main/1_Documentation/shema1.PNG'/> </a>
 
 <h2>Formule</h2>
 
